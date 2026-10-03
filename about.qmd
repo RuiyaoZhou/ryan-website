@@ -1,0 +1,25 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+About this blog
+
+## Brownian Potential Theory
+
+An expository final project written for MIT 18.676.
+
+[Read the PDF](files/brownian-potential-theory.pdf)
