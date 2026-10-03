@@ -18,6 +18,9 @@ about:
 
 About this blog
 
+Hi! I'm Ruiyao Zhou, a final year maths undergrad at Imperial College London. I am interested in the interplay between analysis and geometry such as 
+PDEs and minimal surfaces. 
+
 ## Brownian Potential Theory
 
 An expository final project written for MIT 18.676.
