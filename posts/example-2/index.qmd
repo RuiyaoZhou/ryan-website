@@ -1,0 +1,16 @@
+---
+title: "example 2"
+date: "2026-10-03"
+categories: [Life]
+description: "An example post for writing beyond mathematics."
+---
+
+This is an **example post** for writing beyond mathematics.
+
+## A place for shorter pieces
+
+A post in this category might be a reflection, a note on something interesting, or an account of an experience. It can be a few paragraphs or a longer essay, with photographs and links where useful.
+
+This sample demonstrates the layout and does not describe a personal experience.
+
+[Back to the blog](../../blog.qmd)

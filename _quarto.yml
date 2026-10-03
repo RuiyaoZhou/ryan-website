@@ -1,23 +1,45 @@
 project:
   type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - math.qmd
+    - blog.qmd
+    - about.qmd
+    - "posts/**/*.qmd"
+    - "!posts/welcome/**"
+    - "!posts/post-with-code/**"
+  resources:
+    - files/*.pdf
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "Ruiyao_Zhou_Webpage"
+  description: "Mathematics, expository writing, and a blog by Ruiyao Zhou."
+  site-url: https://ruiyaozhou.github.io/ryan-website/
+  title: "Ruiyao Zhou"
   navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: math.qmd
+        text: Math
+      - href: blog.qmd
+        text: Blog
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: bluesky
-        href: https://bsky.app/
+        href: https://github.com/RuiyaoZhou
+        aria-label: GitHub
+  page-footer:
+    left: "Ruiyao Zhou"
+    right:
+      - text: Contact
+        href: mailto:rz1323@ic.ac.uk
+
+lang: en-GB
+
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-
-
-
+    toc: false

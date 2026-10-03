@@ -1,37 +1,93 @@
 [
   {
+    "objectID": "posts/example-2/index.html",
+    "href": "posts/example-2/index.html",
+    "title": "example 2",
+    "section": "",
+    "text": "This is an example post for writing beyond mathematics."
+  },
+  {
+    "objectID": "posts/example-2/index.html#a-place-for-shorter-pieces",
+    "href": "posts/example-2/index.html#a-place-for-shorter-pieces",
+    "title": "example 2",
+    "section": "A place for shorter pieces",
+    "text": "A place for shorter pieces\nA post in this category might be a reflection, a note on something interesting, or an account of an experience. It can be a few paragraphs or a longer essay, with photographs and links where useful.\nThis sample demonstrates the layout and does not describe a personal experience.\nBack to the blog"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Home",
     "section": "",
-    "text": "About this blog"
+    "text": "My introduction has moved to the homepage."
   },
   {
-    "objectID": "about.html#brownian-potential-theory",
-    "href": "about.html#brownian-potential-theory",
-    "title": "About",
-    "section": "Brownian Potential Theory",
-    "text": "Brownian Potential Theory\nAn expository final project written for MIT 18.676.\nRead the PDF"
+    "objectID": "math.html",
+    "href": "math.html",
+    "title": "Math",
+    "section": "",
+    "text": "I am interested in the interplay between analysis and geometry, especially partial differential equations and minimal surfaces. My projects and reading also touch on geometric optimisation, probability, and complex geometry."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "math.html#projects-and-research-directions",
+    "href": "math.html#projects-and-research-directions",
+    "title": "Math",
+    "section": "Projects and research directions",
+    "text": "Projects and research directions\n\nIso-Riemannian Newton’s Method\n\nMelanie Weber and Willem Diepeveen · Ongoing project; manuscript in preparation\n\nI am developing a second-order method in iso-Riemannian geometry, building on Diepeveen and Weber’s first-order optimisation framework. My work studies local quadratic convergence under explicit regularity assumptions, an arclength interpretation in one dimension, and comparisons with Riemannian Newton on pullback geometries. I combine analysis and numerical experiments to understand favourable geometric regimes and counterexamples.\n\n\nMinimal surfaces\n\nImperial summer research with Marco Guaraco · Exposition in progress\n\nDuring summer 2026, I studied minimal-surface theory with Marco Guaraco. I am developing a self-contained exposition focusing on stability, Simons’s inequality, and the rigidity of stable minimal hypercones in low dimensions.\n\n\nAllen–Cahn and minimal surfaces\n\nMSci project with Marco Guaraco · Proposed direction\n\nMy MSci project aims to develop a shorter proof of smoothness for stable Allen–Cahn limit interfaces in ambient dimension three. The precise scope is being refined.\n\n\nRiemann surfaces\n\nSummer 2025 reading project with Masaharu Tanabe · Institute of Science Tokyo\n\nDuring a summer research placement, I studied Riemann surfaces and their connections with complex analysis and algebraic curves, including holomorphic maps, integration, and the Riemann–Hurwitz formula."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "objectID": "math.html#expository-writing",
+    "href": "math.html#expository-writing",
+    "title": "Math",
+    "section": "Expository writing",
+    "text": "Expository writing\nThese pieces were written for courses and reading projects. They explain existing mathematics; the joint report is credited below.\n\nThe Sphere Packing Problem\n\nExpository paper · MIT 18.156, Harmonic Analysis · Larry Guth\n\nAn account of the linear-programming approach to sphere packing, the Cohn–Elkies bound, and the main ideas behind Viazovska’s magic function in dimension eight.\nRead the PDF\n\n\nBrownian Potential Theory\n\nExpository paper · MIT 18.676, Stochastic Calculus · Nike Sun\n\nAn introduction to Brownian hitting probabilities, Green functions, and Martin capacity, with an application to boundary regularity for the Dirichlet problem.\nRead the PDF\n\n\nGroup Actions and Homogeneous Spaces\n\nJoint second-year report · Imperial College London · Marie-Amélie Lawn\n\nA report introducing manifolds, Lie groups, and Lie algebras before exploring homogeneous and symmetric spaces. Written jointly with Yiming Fu, Taoxiu Hu, Tarun Nair, and Runshi Qian.\nRead the PDF\n\n\nSemidirect Products and Groups of Order 30\n\nFirst-year expository poster · Imperial College London · Alessio Corti\n\nA poster introducing internal and external semidirect products and applying Sylow’s theorems to classify groups of order 30.\nRead the PDF\nFor shorter mathematical explorations, visit the Maths posts on my blog."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ruiyao_Zhou_Webpage",
+    "title": "Ruiyao Zhou",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 3, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 30, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Mathematics · Imperial College London\n\nHi! I’m Ruiyao Zhou — you can call me Ryan. I’m a final-year MSci Mathematics with Year Abroad student at Imperial College London. I spent my year abroad at MIT, from August 2025 to May 2026.\nI’m interested in the interplay between analysis, geometry, and partial differential equations, particularly questions around minimal surfaces. My mathematical interests also include probability.\n\nExplore my mathematics Read the blog"
+  },
+  {
+    "objectID": "index.html#mathematics",
+    "href": "index.html#mathematics",
+    "title": "Ruiyao Zhou",
+    "section": "Mathematics",
+    "text": "Mathematics\nThe Math page brings together my research interests, current projects, and expository writing. Notes include short introductions and direct links to PDFs, with browser-readable articles to follow as the collection grows."
+  },
+  {
+    "objectID": "index.html#writing-and-beyond",
+    "href": "index.html#writing-and-beyond",
+    "title": "Ruiyao Zhou",
+    "section": "Writing and beyond",
+    "text": "Writing and beyond\nThe Blog is a place for mathematical ideas, reading notes, and writing about life beyond mathematics. It currently contains two example posts to demonstrate the format."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Ruiyao Zhou",
+    "section": "Get in touch",
+    "text": "Get in touch\nYou can reach me at rz1323@ic.ac.uk."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The two posts below are examples of the format; they can be replaced with new writing whenever it is ready.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nexample 1\n\n\n\nMaths\n\n\n\nAn example mathematical post, with an equation and a short explanation.\n\n\n\n\n\n3 Oct 2026\n\n\nRuiyao Zhou\n\n\n\n\n\n\n\n\n\n\n\n\nexample 2\n\n\n\nLife\n\n\n\nAn example post for writing beyond mathematics.\n\n\n\n\n\n3 Oct 2026\n\n\nRuiyao Zhou\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/example-1/index.html",
+    "href": "posts/example-1/index.html",
+    "title": "example 1",
+    "section": "",
+    "text": "This is an example post showing how mathematical writing can appear directly in the browser."
+  },
+  {
+    "objectID": "posts/example-1/index.html#a-simple-equation",
+    "href": "posts/example-1/index.html#a-simple-equation",
+    "title": "example 1",
+    "section": "A simple equation",
+    "text": "A simple equation\nFor a real-valued differentiable function \\(f\\), the fundamental theorem of calculus relates its derivative to its change over an interval:\n\\[\n\\int_a^b f'(x)\\,\\mathrm{d}x = f(b)-f(a),\n\\]\nprovided \\(f'\\) is continuous on \\([a,b]\\). The integral adds up the local rate of change, giving the total change between the endpoints.\nFor instance, with \\(f(x)=x^2\\), we obtain\n\\[\n\\int_0^1 2x\\,\\mathrm{d}x = 1.\n\\]\nFuture posts can use this format for reading notes, examples, and longer mathematical explanations.\nBack to the blog"
   }
 ]

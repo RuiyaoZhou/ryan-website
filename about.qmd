@@ -1,28 +1,11 @@
 ---
-title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
-
+title: "Home"
+toc: false
+title-block-banner: false
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=./index.html">
+    <meta name="robots" content="noindex">
 ---
 
-About this blog
-
-Hi! I'm Ruiyao Zhou, a final year maths undergrad at Imperial College London. I am interested in the interplay between analysis and geometry such as 
-PDEs and minimal surfaces. 
-
-## Brownian Potential Theory
-
-An expository final project written for MIT 18.676.
-
-[Read the PDF](files/brownian-potential-theory.pdf)
+My introduction has moved to the [homepage](index.qmd).

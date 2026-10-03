@@ -1,15 +1,39 @@
 ---
-title: "Ruiyao_Zhou_Webpage"
-listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Ruiyao Zhou"
+description: "Mathematics, expository writing, and a personal blog by Ruiyao Zhou."
+toc: false
+title-block-banner: false
 ---
 
+::: {.home-intro}
+::: {.eyebrow}
+Mathematics · Imperial College London
+:::
 
+Hi! I'm Ruiyao Zhou — you can call me **Ryan**. I'm a final-year MSci Mathematics with Year Abroad student at Imperial College London. I spent my year abroad at MIT, from August 2025 to May 2026.
+
+I'm interested in the interplay between **analysis, geometry, and partial differential equations**, particularly questions around minimal surfaces. My mathematical interests also include probability.
+
+::: {.home-links}
+[Explore my mathematics](math.qmd){.btn .btn-primary}
+[Read the blog](blog.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.home-section}
+## Mathematics
+
+The [Math page](math.qmd) brings together my research interests, current projects, and expository writing. Notes include short introductions and direct links to PDFs, with browser-readable articles to follow as the collection grows.
+:::
+
+::: {.home-section}
+## Writing and beyond
+
+The [Blog](blog.qmd) is a place for mathematical ideas, reading notes, and writing about life beyond mathematics. It currently contains two example posts to demonstrate the format.
+:::
+
+::: {.home-section}
+## Get in touch
+
+You can reach me at [rz1323@ic.ac.uk](mailto:rz1323@ic.ac.uk).
+:::

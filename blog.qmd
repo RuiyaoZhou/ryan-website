@@ -1,0 +1,16 @@
+---
+title: "Blog"
+description: "Mathematical ideas and writing about life beyond mathematics."
+toc: false
+title-block-banner: false
+listing:
+  contents: "posts/!(welcome|post-with-code)/**/*.qmd"
+  sort: "date desc"
+  type: default
+  feed: true
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+The two posts below are examples of the format; they can be replaced with new writing whenever it is ready.

@@ -1,1 +1,85 @@
-/* css styles */
+/* Small refinements to the site's Quarto theme. */
+:root {
+  --ryan-accent: #28536b;
+  --ryan-muted: #56616c;
+  --ryan-rule: #dde3e8;
+}
+
+.home-intro {
+  max-width: 50rem;
+  padding: 1.25rem 0 1rem;
+}
+
+.eyebrow {
+  color: var(--ryan-accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.home-copy,
+.home-intro > p {
+  font-size: 1.12rem;
+  line-height: 1.7;
+}
+
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  margin-top: 1.25rem;
+}
+
+.home-links a {
+  font-weight: 600;
+}
+
+.home-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin: 0;
+}
+
+.home-section {
+  max-width: 50rem;
+  margin-top: 2rem;
+}
+
+.work-meta {
+  color: var(--ryan-muted);
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.work-meta p {
+  margin-bottom: 0.8rem;
+}
+
+.download-link {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+#quarto-document-content > h2 {
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--ryan-rule);
+}
+
+#quarto-document-content > h3 {
+  margin-top: 1.75rem;
+}
+
+@media (max-width: 767px) {
+  .home-intro {
+    padding-top: 0.5rem;
+  }
+
+  .home-copy,
+  .home-intro > p {
+    font-size: 1.03rem;
+  }
+}

@@ -1,0 +1,88 @@
+---
+title: "Math"
+description: "My mathematical interests, research projects, and expository writing."
+toc: true
+toc-title: "On this page"
+---
+
+I am interested in the interplay between analysis and geometry, especially partial differential equations and minimal surfaces. My projects and reading also touch on geometric optimisation, probability, and complex geometry.
+
+## Projects and research directions
+
+### Iso-Riemannian Newton's Method
+
+::: {.work-meta}
+Melanie Weber and Willem Diepeveen · Ongoing project; manuscript in preparation
+:::
+
+I am developing a second-order method in iso-Riemannian geometry, building on [Diepeveen and Weber's first-order optimisation framework](https://arxiv.org/abs/2510.21033). My work studies local quadratic convergence under explicit regularity assumptions, an arclength interpretation in one dimension, and comparisons with Riemannian Newton on pullback geometries. I combine analysis and numerical experiments to understand favourable geometric regimes and counterexamples.
+
+### Minimal surfaces
+
+::: {.work-meta}
+Imperial summer research with Marco Guaraco · Exposition in progress
+:::
+
+During summer 2026, I studied minimal-surface theory with Marco Guaraco. I am developing a self-contained exposition focusing on stability, Simons's inequality, and the rigidity of stable minimal hypercones in low dimensions.
+
+### Allen–Cahn and minimal surfaces
+
+::: {.work-meta}
+MSci project with Marco Guaraco · Proposed direction
+:::
+
+My MSci project aims to develop a shorter proof of smoothness for stable Allen–Cahn limit interfaces in ambient dimension three. The precise scope is being refined.
+
+### Riemann surfaces
+
+::: {.work-meta}
+Summer 2025 reading project with Masaharu Tanabe · Institute of Science Tokyo
+:::
+
+During a summer research placement, I studied Riemann surfaces and their connections with complex analysis and algebraic curves, including holomorphic maps, integration, and the Riemann–Hurwitz formula.
+
+## Expository writing
+
+These pieces were written for courses and reading projects. They explain existing mathematics; the joint report is credited below.
+
+### The Sphere Packing Problem
+
+::: {.work-meta}
+Expository paper · MIT 18.156, Harmonic Analysis · Larry Guth
+:::
+
+An account of the linear-programming approach to sphere packing, the Cohn–Elkies bound, and the main ideas behind Viazovska's magic function in dimension eight.
+
+[Read the PDF](files/sphere-packing.pdf){.download-link}
+
+### Brownian Potential Theory
+
+::: {.work-meta}
+Expository paper · MIT 18.676, Stochastic Calculus · Nike Sun
+:::
+
+An introduction to Brownian hitting probabilities, Green functions, and Martin capacity, with an application to boundary regularity for the Dirichlet problem.
+
+[Read the PDF](files/brownian-potential-theory.pdf){.download-link}
+
+### Group Actions and Homogeneous Spaces
+
+::: {.work-meta}
+Joint second-year report · Imperial College London · Marie-Amélie Lawn
+:::
+
+A report introducing manifolds, Lie groups, and Lie algebras before exploring homogeneous and symmetric spaces. Written jointly with Yiming Fu, Taoxiu Hu, Tarun Nair, and Runshi Qian.
+
+[Read the PDF](files/group-actions-homogeneous-spaces.pdf){.download-link}
+
+### Semidirect Products and Groups of Order 30
+
+::: {.work-meta}
+First-year expository poster · Imperial College London · Alessio Corti
+:::
+
+A poster introducing internal and external semidirect products and applying Sylow's theorems to classify groups of order 30.
+
+[Read the PDF](files/semidirect-products-groups-order-30.pdf){.download-link}
+
+For shorter mathematical explorations, visit the [Maths posts on my blog](blog.qmd#category=Maths).

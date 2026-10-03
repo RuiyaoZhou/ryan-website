@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/about.html</loc>
-    <lastmod>2026-10-03T19:00:27.882Z</lastmod>
+    <loc>https://ruiyaozhou.github.io/ryan-website/posts/example-2/index.html</loc>
+    <lastmod>2026-10-03T20:20:51.448Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
-    <lastmod>2026-10-03T18:45:28.250Z</lastmod>
+    <loc>https://ruiyaozhou.github.io/ryan-website/about.html</loc>
+    <lastmod>2026-10-03T20:20:43.261Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
-    <lastmod>2026-10-03T18:45:28.252Z</lastmod>
+    <loc>https://ruiyaozhou.github.io/ryan-website/math.html</loc>
+    <lastmod>2026-10-03T20:21:59.161Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-10-03T18:45:28.250Z</lastmod>
+    <loc>https://ruiyaozhou.github.io/ryan-website/index.html</loc>
+    <lastmod>2026-10-03T20:20:41.659Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ruiyaozhou.github.io/ryan-website/blog.html</loc>
+    <lastmod>2026-10-03T20:36:02.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ruiyaozhou.github.io/ryan-website/posts/example-1/index.html</loc>
+    <lastmod>2026-10-03T20:20:48.877Z</lastmod>
   </url>
 </urlset>

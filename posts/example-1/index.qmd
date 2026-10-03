@@ -1,0 +1,28 @@
+---
+title: "example 1"
+date: "2026-10-03"
+categories: [Maths]
+description: "An example mathematical post, with an equation and a short explanation."
+---
+
+This is an **example post** showing how mathematical writing can appear directly in the browser.
+
+## A simple equation
+
+For a real-valued differentiable function $f$, the fundamental theorem of calculus relates its derivative to its change over an interval:
+
+$$
+\int_a^b f'(x)\,\mathrm{d}x = f(b)-f(a),
+$$
+
+provided $f'$ is continuous on $[a,b]$. The integral adds up the local rate of change, giving the total change between the endpoints.
+
+For instance, with $f(x)=x^2$, we obtain
+
+$$
+\int_0^1 2x\,\mathrm{d}x = 1.
+$$
+
+Future posts can use this format for reading notes, examples, and longer mathematical explanations.
+
+[Back to the blog](../../blog.qmd)
