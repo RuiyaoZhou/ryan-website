@@ -41,6 +41,8 @@ Summer 2025 reading project with Masaharu Tanabe · Institute of Science Tokyo
 
 During a summer research placement, I studied Riemann surfaces and their connections with complex analysis and algebraic curves, including holomorphic maps, integration, and the Riemann–Hurwitz formula.
 
+[Download the IROP notes (PDF)](files/riemann-surfaces-irop.pdf){.download-link download="riemann-surfaces-irop.pdf"}
+
 ## Expository writing
 
 These pieces were written for courses and reading projects. They explain existing mathematics; the joint report is credited below.
